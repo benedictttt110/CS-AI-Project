@@ -19,10 +19,10 @@
 
 ## 1. Team Information and Responsibilities
 
--   **Team name:** `[TEAM NAME]`
+-   **Team name:** `[Fengwei Fried Rice]`
 -   **Selected project module:** Search and Problem Solving in
     Artificial Intelligence
--   **GitHub repository:** `[PASTE REPOSITORY URL]`
+-   **GitHub repository:** `[https://github.com/benedictttt110/CS-AI-Project]`
 -   **Submission lead:** `[MEMBER NAME]`
 
   ------------------------------------------------------------------------------------------------------------------------------------------------
